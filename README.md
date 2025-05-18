@@ -12,7 +12,7 @@
 - Also provides a simple log over wifi for debugging without being connected to serial, as well as a super basic graphing/plotting interface
 - Provides a helper library (`web_dashboard.py`) for sending data to the web interface
 
-Made by [@blobbybilb](https://github.com/blobbybilb)
+Made by [Arjun (@arjver)](https://github.com/arjver)
 
 ## Usage
 
